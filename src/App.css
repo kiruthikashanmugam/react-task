@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+li{
+  list-style-type: none;
+ 
+ 
+}
+a{
+text-decoration: none;
+  color:black ;
+}
+.sidenav{
+  float: left;
+  padding-right: 90px;
+  padding-bottom: 120px;
+  background-color: aquamarine;
+
+}
+.leftside{
+
+text-align: center;
+ 
+
+
+}
